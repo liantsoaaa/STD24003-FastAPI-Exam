@@ -3,7 +3,7 @@ from fastapi import FastAPI #type: ignore
 app = FastAPI()
 
 @app.get("/")
-async def hello_world():
+async def hello_fast_api():
     return {"message": "Hello FastAPI!"}
 
 @app.get("/hello")
