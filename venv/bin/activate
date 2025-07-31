@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/rajharit/ntfs/FastAPI-Liantsoa-Exam/venv"
+VIRTUAL_ENV="/home/rajharit/ntfs/API-Liantsoa/FastAPI-Liantsoa-Exam/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -1,4 +1,4 @@
-#!/home/rajharit/ntfs/FastAPI-Liantsoa-Exam/venv/bin/python
+#!/home/rajharit/ntfs/API-Liantsoa/FastAPI-Liantsoa-Exam/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
